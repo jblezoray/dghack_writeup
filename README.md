@@ -19,7 +19,7 @@ Kalon vat deoc'h evit al lennadur, ha trugarez vraz d'ar DGA evit ar C'hallenge.
 
 ---
 
-*
+(*)
 ```bash
 curl -s 'https://www.fr.brezhoneg.bzh/42-traducteur-automatique.htm' \
     -d 'TRADUCTION=Kalon+vat+deoc%27h+evit+al+lennadur,+ha+ret+eo+din+trugarekaat+ar+DGA+d%27ober+dae+evel+se+bep+ploaz.++Mat+kenañ+e+oa+!+&idtf=42&TRADUIRE=Traduire' \
