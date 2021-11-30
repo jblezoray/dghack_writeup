@@ -15,8 +15,8 @@ public class EcoleFitnessNative {
     }
 
     private void setStudents(String jsonStr) {
-        this.student = new ArrayList<>(90);
         // 90 students + the 0th one that stays null for ever.
+        this.student = new ArrayList<>(91);
         for (int i=0; i<=90; i++) {
             this.student.add(i, null);
         }
