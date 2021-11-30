@@ -6,7 +6,7 @@ Je ne suis pas un habitué de ce genre de challenge, même si j'apprécie en fai
 
 Je vais cette année me plier à l'usage du WriteUp, pour partager les solutions à quelques épreuves que j'ai résolues.
 
-Kalon vat deoc'h evit al lennadur, ha trugarez vraz d'ar DGA evit ar C'hallenge.  Mat kennañ e oa (*)!
+Kalon vat deoc'h evit al lennadur, ha ret eo din trugarekaat ar DGA d'ober daeoù evel se bep ploaz.  Mat kenañ e oa ! (*)
 
 * [Yet Another Ridiculous Acronym](yet_another_ridiculous_acronym/README.md) (100pts)
 * [PCAP 101](pcap101/README.md) (50pts)
@@ -22,6 +22,6 @@ Kalon vat deoc'h evit al lennadur, ha trugarez vraz d'ar DGA evit ar C'hallenge.
 (*)
 ```bash
 curl -s 'https://www.fr.brezhoneg.bzh/42-traducteur-automatique.htm' \
-    -d 'TRADUCTION=Kalon+vat+deoc%27h+evit+al+lennadur,+ha+ret+eo+din+trugarekaat+ar+DGA+d%27ober+dae+evel+se+bep+ploaz.++Mat+kenañ+e+oa+!+&idtf=42&TRADUIRE=Traduire' \
+    -d 'TRADUCTION=Kalon+vat+deoc%27h+evit+al+lennadur,+ha+ret+eo+din+trugarekaat+ar+DGA+d%27ober+daeo%C3%B9+evel+se+bep+ploaz.++Mat+kenañ+e+oa+!+&idtf=42&TRADUIRE=Traduire' \
     | grep "resultats"
 ```
